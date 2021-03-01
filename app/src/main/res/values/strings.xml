@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">piechart</string>
+    <string name="chart">Chart</string>
+    <string name="temperature">Temperature</string>
+    <string name="Temp">Temp</string>
+    <string name="pres">Pres</string>
+    <string name="flow">Flow</string>
+    <string name="Elec">Elec</string>
+    <string name="pressure">Pressure</string>
+    <string name="textview">TextView</string>
+</resources>
